@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : 
+  content : We are located at Inria Paris.
   
   # Contact details
   contact_list:
