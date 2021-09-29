@@ -7,7 +7,7 @@ service:
     - name : WordPress Theme
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      link : google.com
+
     # service item loop
     - name : Responsive Design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
