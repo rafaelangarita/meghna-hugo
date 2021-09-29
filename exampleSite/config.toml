@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "cicamo.re"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -128,7 +128,7 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "cicamo.re"
 author = "Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
