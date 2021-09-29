@@ -15,4 +15,4 @@ portfolio:
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       content : This is Socialbus.
-      link : "https://google.com"
+      link : "blog.html"
