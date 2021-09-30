@@ -44,12 +44,12 @@ link = "plugins/google-map/map.js"
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "about"
-url = "#about"
+url = "#feature"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "projects"
+url = "#skill"
 weight = 2
 
 #[[Languages.en.menu.main]]
