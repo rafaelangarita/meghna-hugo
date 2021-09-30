@@ -7,21 +7,21 @@ feature:
   content : "Our mission is to faciliate people's participation via Civic Technologies by providing better technological tools and guidelines for Civic Tech developpers and institutions."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Civic Tech
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Easy Customization
+    - title : Social Networks
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Collaboration
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Easy Customization
+    - title : Privacy & descentralization
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
