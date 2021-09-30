@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/team-spirit-2448837_1280.jpg
   image_webp : images/about/team-spirit-2448837_1280.jpg
-  title : cicamo-re : our mission
+  title : "cicamo-re : our mission"
   content : "Our mission is to faciliate people's participation via Civic Technologies by providing better technological tools and guidelines for Civic Tech developpers and institutions."
   feature_item : 
       # feature item loop
