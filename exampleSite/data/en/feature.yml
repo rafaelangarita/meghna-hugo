@@ -7,7 +7,7 @@ feature:
   content : "Civic Tech has emerged as providing modern online participatory platforms for citizen participation, 
   However, existing platforms limits the actual scale of participation by buiding upon a limited set of technologies and/or limiting 
   the level of participation. Our research investigates middleware solutions so as to ease the development of Civic Tech that 
-  enables large-scale participation, while leveraging state of the art communication technologies"
+  enables large-scale participation, while leveraging state of the art communication technologies."
   feature_item : 
       # feature item loop
     - title : Civic Tech
@@ -27,13 +27,13 @@ feature:
       # feature item loop
     - title : Collaboration
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : A key challenge of Civic Tech lies in providing digital tools enabling individuals to engage in participatory processes through the 
+      content : "A key challenge of Civic Tech lies in providing digital tools enabling individuals to engage in participatory processes through the 
       collaborative edition of proposals on topics that matter to society. The focus of this research is to overcome such a challenge by leveraging and 
-      further adapting techniques that have proven successful in open source software development.
+      further adapting techniques that have proven successful in open source software development."
       
       # feature item loop
     - title : Social middleware
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Social middleware allows citizens to engage in participatory processes -supported by civic technologies- via their favorite communication tools,
+      content : "Social middleware allows citizens to engage in participatory processes -supported by civic technologies- via their favorite communication tools,
       and to interact not only with other citizens but also with relevant connected objects and software platforms. It also
-      aims at enhancing the quality of civic engagement by providing additional services such as participation incentives.
+      aims at enhancing the quality of civic engagement by providing additional services such as participation incentives."
