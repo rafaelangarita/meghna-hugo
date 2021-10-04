@@ -7,7 +7,7 @@ banner:
   title : "cicamo.re"
   content : "Civic Tech Applications on the Move" 
   
-  "Research"
+  content : "Research"
   button:
     enable : true
     label : "Explore Us"
