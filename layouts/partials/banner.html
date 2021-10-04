@@ -14,7 +14,8 @@
 		</div>
 		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
-		<p>{{ .content | markdownify }}</p>
+		<h3>{{ .content1 | markdownify }}</h3>
+		<p>{{ .content2 | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
