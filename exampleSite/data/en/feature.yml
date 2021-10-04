@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/team-spirit-2448837_1280.jpg
   image_webp : images/about/team-spirit-2448837_1280.jpg
-  title : "cicamo-re : our mission"
-  content : "Our mission is to faciliate people's participation via Civic Technologies by providing better technological tools and guidelines for Civic Tech developpers and institutions."
+  title : "cicamo-re research"
+  content : "...."
   feature_item : 
       # feature item loop
     - title : Civic Tech
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : civic tech def
       
       # feature item loop
-    - title : Social Networks
+    - title : Social Networking
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : osns pitch
 
       # feature item loop
     - title : Collaboration
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : collaborative editing pitch
       
       # feature item loop
-    - title : Privacy
+    - title : Social middleware
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : social mdw pitch
