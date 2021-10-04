@@ -1,11 +1,11 @@
 ############################### team ############################
 team:
   enable : true
-  title : The Team
+  title : "The Team"
   team_member :
     # team member loop
     - name : William Aboucaya
-      image_webp : images/team/team-1.webp
+      image_webp : images/team/william.webp
       image : images/team/william.jpg
       designation : PhD student
       content : William's PhD reseearch focuses on the study of collaborative editing systems for large scale online citizen participation.
@@ -21,7 +21,7 @@ team:
         
     # team member loop
     - name : Rafael Angarita
-      image_webp : images/team/team-2.webp
+      image_webp : images/team/rafael.webp
       image : images/team/rafael.jpg
       designation : Researcher
       content : Rafael is associate professor at ISEP, Paris. He contributes to cicamo.re as part of his collaboration with the MiMove team.
@@ -37,7 +37,7 @@ team:
         
     # team member loop
     - name : Lior Diler
-      image_webp : images/team/team-3.webp
+      image_webp : images/team/lior.webp
       image : images/team/lior.jpg
       designation : Apprentice
       content : Lior is the lead developer of the re-engineering of the SocialBus middleware solution for interoperability across OSNSes.
@@ -53,7 +53,7 @@ team:
         
     # team member loop
     - name : Nikolaos Georgantas
-      image_webp : images/team/team-4.webp
+      image_webp : images/team/nikolaos.webp
       image : images/team/nikolaos.jpg
       designation : Researcher
       content : Nikolaos is researcher at Inria where he leads the MiMove team and contributes to cicamo.re with his expertise on interoperability.
@@ -69,7 +69,7 @@ team:
           
       # team member loop
     - name : Valerie Issarny
-      image_webp : images/team/team-4.webp
+      image_webp : images/team/valerie.webp
       image : images/team/valerie.jpg
       designation : Researcher (contact)
       content : Valerie is director of research at Inria. She leads the cicamo.re project.
