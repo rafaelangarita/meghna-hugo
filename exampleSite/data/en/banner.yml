@@ -6,8 +6,6 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "cicamo.re"
   content : "Civic Tech Applications on the Move" 
-  
-  content : "Research"
   button:
     enable : true
     label : "Explore Us"
