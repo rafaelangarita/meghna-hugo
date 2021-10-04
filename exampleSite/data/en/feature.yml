@@ -4,29 +4,36 @@ feature:
   image : images/about/team-spirit-2448837_1280.jpg
   image_webp : images/about/team-spirit-2448837_1280.jpg
   title : "cicamo-re research"
-  content : "...."
+  content : "Civic Tech has emerged as providing modern online participatory platforms for citizen participation, 
+  However, existing platforms limits the actual scale of participation by buiding upon a limited set of technologies and/or limiting 
+  the level of participation. Our research investigates middleware solutions so as to ease the development of Civic Tech that 
+  enables large-scale participation, while leveraging state of the art communication technologies"
   feature_item : 
       # feature item loop
     - title : Civic Tech
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : The worldwide use of the Internet and online social networking has transformed the constraints of time and space in human interaction: we can now be heard at a massive scale unprecedented in human
-history. Moreover, information technologies enable individuals to organize and interact with their governments both through direct assembly and collective action at a scale and efficacy never seen
-before. In particular, civic technology, civic tech for short, has emerged to improve the relationship with governments by providing data access and visualization tools, voting services, and participatory
-budgeting platforms, just to mention some examples. Our research concerns this opportunity to leverage a new sort of political life. We focus specifically on how software systems may enable
-participatory democracy, that is, the participation of individuals in democratic assembly, action, and governance
+      content : "In contrast to general-purpose social media, Civic  Tech 
+      are  conceived  with  the  specific  purpose of supporting civic engagement by providing  
+      mechanisms  to  improve  collaborative  actions  and participation in public decisions. Our research
+      focuses on leveraging middleware solutions for next generation Civic Tech." 
       
       # feature item loop
     - title : Social Networking
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : osns pitch
+      content : "There exist a plethora of social interaction services enabling computer-mediated social communication 
+      (e.g., Skype, Facebook Messenger, Telegram, WhatsApp, Twitter, Slack, etc.). Our research aims at enabling interaction across
+      social media so that people may interact using their favorite interaction services."
 
       # feature item loop
     - title : Collaboration
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : A key challenge of Civic Tech lies in providing digital tools enabling individuals to engage in participatory processes through the collaborative edition of proposals on topics that matter to society.
-The focus of this research is to overcome such a challenge by leveraging and further adapting techniques that have proven successful in open source software development.
+      content : A key challenge of Civic Tech lies in providing digital tools enabling individuals to engage in participatory processes through the 
+      collaborative edition of proposals on topics that matter to society. The focus of this research is to overcome such a challenge by leveraging and 
+      further adapting techniques that have proven successful in open source software development.
       
       # feature item loop
     - title : Social middleware
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Social middleware allows citizens to engage in participatory processes -supported by civic technologies- via their favorite communication tools,
+      and to interact not only with other citizens but also with relevant connected objects and software platforms. It also
+      aims at enhancing the quality of civic engagement by providing additional services such as participation incentives.
