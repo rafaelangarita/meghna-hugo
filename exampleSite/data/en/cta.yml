@@ -1,11 +1,11 @@
 ############################# call to action ##############################
 cta:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   title : "cicamo.re"
   content : "Don't hesitate to contact us for any Civic Tech project!"
   button:
-    enable : true
+    enable : false
     label : "Start a project with us"
     link : "#contact"
