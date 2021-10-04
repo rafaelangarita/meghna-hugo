@@ -58,14 +58,19 @@ weight = 2
 #weight = 3
 
 [[Languages.en.menu.main]]
+name = "publications"
+url = "https://haltools.inria.fr/Public/afficheRequetePubli.php?struct=454659&collaboration=cicamore&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&CB_resume=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=AT&Fen=Aff&css=../css/VisuRubriqueEncadre.css"
+weight = 4
+
+[[Languages.en.menu.main]]
 name = "team"
 url = "#team"
-weight = 4
+weight = 5
 
 #[[Languages.en.menu.main]]
 #name = "pricing"
 #url = "#pricing"
-#weight = 5
+#weight = 6
 
 #[[Languages.en.menu.main]]
 #name = "blog"
