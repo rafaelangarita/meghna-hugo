@@ -1,7 +1,7 @@
 ################################# Skill ##################################
 project:
   enable : true
-  title : William's
+  title : SocialBus
   subtitle : 
   content : 
   image : images/about/company-growth.webp
