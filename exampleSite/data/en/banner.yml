@@ -6,7 +6,7 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "cicamo.re"
   content1 : "Civic Tech Applications on the Move" 
-  content2 : "A research project of the Inria MiMove team" 
+  content2 : "A research project of the <a href="https://mimove.inria.fr/"> Inria MiMove team </a>" 
   button:
     enable : true
     label : "Explore Us"
