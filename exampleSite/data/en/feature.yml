@@ -4,8 +4,8 @@ feature:
   image : images/about/team-spirit-2448837_1280.jpg
   image_webp : images/about/team-spirit-2448837_1280.jpg
   title : "Our Research at a Glance"
-  content : "Civic Tech has emerged as providing modern online participatory platforms for citizen participation, 
-  However, existing platforms limits the actual scale of participation by buiding upon a limited set of technologies and/or limiting 
-  the level of participation. Our research investigates middleware solutions so as to ease the development of Civic Tech that 
-  enables large-scale participation, while leveraging state of the art communication technologies."
+  content : "Civic Tech(nologies) have emerged as modern online participation platforms for citizens.  
+  However, existing platforms limit the scale of participation by relying on a limited set of digital technologies 
+  and/or limiting the level of participation.  Our research focuses on middleware solutions to facilitate the development 
+  of Civic Tech that enable large-scale participation, while leveraging advanced communication technologies"
   
