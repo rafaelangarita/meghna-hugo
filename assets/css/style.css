@@ -412,8 +412,9 @@ a:hover {
 }
 
 .text-description-big {
-  margin-left: 20px;
-  margin-right: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  text-justify: auto;
 }
 /*=================================================================
   Navigation
