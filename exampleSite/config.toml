@@ -159,7 +159,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
-[[params.social]]
+<!--[[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
@@ -181,7 +181,7 @@ link = "#"
 
 [[params.social]]
 icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "#"-->
 
 
 ################################ English Language ########################
