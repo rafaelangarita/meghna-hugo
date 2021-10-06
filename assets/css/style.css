@@ -93,6 +93,14 @@ a:hover {
   padding: 0 !important;
 }
 
+.padding-bottom-0 {
+  padding-bottom: 0 !important;
+}
+
+.padding-top-0 {
+  padding-top: 0 !important;
+}
+
 .mb-50 {
   margin-bottom: 50px;
 }
