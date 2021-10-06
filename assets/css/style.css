@@ -1102,7 +1102,7 @@ a:hover {
   height: 35px;
   line-height: 35px;
   text-align: center;
-  width: 10px;
+  width: 35px;
 }
 
 .member-photo .mask ul li a:hover {
@@ -1113,6 +1113,7 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+  display: inline-block;
 }
 
 .member-meta h4 {
