@@ -1052,7 +1052,7 @@ a:hover {
   position: relative;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 100px) {
   .member-photo {
     text-align: center;
   }
