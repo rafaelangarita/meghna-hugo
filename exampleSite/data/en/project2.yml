@@ -2,8 +2,13 @@
 project:
   enable : true
   title : Collaboration
-  subtitle : 
-  content : 
+  subtitle : Collaborative Editing for Large Scale Online Citizen Participation
+  content : >
+    A key challenge of Civic Tech lies in providing digital tools enabling individuals to engage in participatory processes through the
+    collaborative edition of proposals on topics that matter to society. The focus of this research is to overcome such a challenge by leveraging and
+    further adapting techniques that have proven successful in open source software development. Toward this objective, the first step was to analyze
+    a citizen consultation to identify issues concerning participation and to propose recommendations to solve the aforementioned issues. Visit the
+    dedicated [GitHub project](https://github.com/repnumanalysis/repnum_notebooks) to know more.
   image : images/about/company-growth.webp
   #skill_item :
     # skill item loop
